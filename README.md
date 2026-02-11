@@ -95,8 +95,89 @@
 
 <div align="center">
 
-[![SparkIn ](https://github-readme-stats.vercel.app/api/pin/?username=MaybeJaydeep&repo=SparkIn1&theme=tokyonight&hide_border=true)](https://github.com/MaybeJaydeep/SparkIn)
-[![JustExam ](https://github-readme-stats.vercel.app/api/pin/?username=MaybeJaydeep&repo=JustExam2&theme=tokyonight&hide_border=true)](https://github.com/MaybeJaydeep/JustExam)
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+<a href="https://github.com/MaybeJaydeep/SparkIn">
+<img src="https://via.placeholder.com/400x200/1a1b27/70a5fd?text=SparkIn" alt="SparkIn" width="100%"/>
+</a>
+</div>
+
+### ⚡ SparkIn - Modern Blogging Platform
+
+<p align="left">
+A feature-rich blogging platform inspired by Medium and Dev.to, built with the MERN stack. SparkIn offers a seamless content creation experience with a powerful rich text editor, user authentication, and an intuitive admin dashboard for content moderation.
+</p>
+
+**🎯 Key Features:**
+- ✅ TipTap-powered rich text editor with markdown support
+- ✅ JWT-based authentication with secure password hashing
+- ✅ Interactive commenting system and bookmarks
+- ✅ Admin dashboard for content moderation
+- ✅ Mobile-first responsive design
+
+**💻 Tech Stack:**
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express_5-404D59?style=flat&logo=express)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**📊 Project Stats:**  
+![Stars](https://img.shields.io/github/stars/MaybeJaydeep/SparkIn?style=social)
+![Forks](https://img.shields.io/github/forks/MaybeJaydeep/SparkIn?style=social)
+
+**🔗 Explore:**  
+<a href="https://github.com/MaybeJaydeep/SparkIn">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+<a href="https://github.com/MaybeJaydeep/JustExam">
+<img src="https://via.placeholder.com/400x200/1a1b27/ffa116?text=JustExam" alt="JustExam" width="100%"/>
+</a>
+</div>
+
+### 🎓 JustExam - Online Examination System
+
+<p align="left">
+A comprehensive online examination platform designed for educational institutions. JustExam streamlines the entire exam lifecycle with automated grading, real-time question navigation, and detailed performance analytics for both students and administrators.
+</p>
+
+**🎯 Key Features:**
+- ✅ Complete admin dashboard for exam & student management
+- ✅ Real-time exam interface with countdown timer
+- ✅ Instant result calculation and performance reports
+- ✅ Secure role-based access control
+- ✅ Fully responsive across all devices
+
+**💻 Tech Stack:**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**📊 Project Stats:**  
+![Stars](https://img.shields.io/github/stars/MaybeJaydeep/JustExam?style=social)
+![Forks](https://img.shields.io/github/forks/MaybeJaydeep/JustExam?style=social)
+
+**🔗 Explore:**  
+<a href="https://github.com/MaybeJaydeep/JustExam">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
