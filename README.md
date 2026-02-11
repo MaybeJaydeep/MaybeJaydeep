@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **React, Java, SpringBoot, **
 - 👯 I'm looking to collaborate on **Full stack applications, and DevOPS**
 - 💬 Ask me about **Java**
-- 📫 How to reach me: **jaydeep.badal.pro@gail.com**
+- 📫 How to reach me: **jaydeep.badal.pro@gmail.com**
 - ⚡ Fun fact: **passionate gamer, and a Full TIme Traveler.**
 
 ---
