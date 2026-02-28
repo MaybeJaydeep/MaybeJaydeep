@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Spark.ai, p(Name still not decided) and JustExam(Optimizations and Refactorizations)**
-- 🌱 I'm currently learning **React, Java, SpringBoot, **
+- 🌱 I'm currently learning **React, Java, SpringBoot **
 - 👯 I'm looking to collaborate on **Full stack applications, and DevOPS**
 - 💬 Ask me about **Java**
 - 📫 How to reach me: **jaydeep.badal.pro@gmail.com**
