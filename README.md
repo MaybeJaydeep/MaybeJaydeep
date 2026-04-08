@@ -64,8 +64,6 @@
   
   ![Jaydeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Jaydeep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaybeJaydeep&theme=tokyonight&hide_border=true)
-  
   
 </div>
 
