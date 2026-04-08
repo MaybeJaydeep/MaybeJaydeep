@@ -79,16 +79,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  [![Jaydeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaybeJaydeep&theme=tokyo-night&hide_border=true)](https://github.com/MaybeJaydeep)
-  
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 <div align="center">
