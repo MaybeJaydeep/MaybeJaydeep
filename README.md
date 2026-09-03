@@ -1,251 +1,424 @@
-# Hi there, I'm Jaydeep👋
-
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=MaybeJaydeep&color=blueviolet&style=flat-square&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/MaybeJaydeep?label=Followers&style=social)](https://github.com/MaybeJaydeep)
-  
+
+<!-- ======================== HERO ======================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:161B22,100:6E40C9&text=Jaydeep%20Badal&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Explorer+%E2%98%95;Building+things+that+solve+real+problems+%F0%9F%9A%80;DevOps+%7C+Backend+%7C+System+Design;Gamer+%F0%9F%8E%AE+%E2%80%A2+Traveler+%F0%9F%8C%8D+%E2%80%A2+Lifelong+Learner" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/MaybeJaydeep">
+  <img src="https://img.shields.io/github/followers/MaybeJaydeep?style=for-the-badge&logo=github&label=FOLLOWERS&color=6E40C9" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=MaybeJaydeep&style=for-the-badge&color=238636&label=PROFILE+VIEWS" />
+<a href="mailto:jaydeep.badal.pro@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
-</div>
+<br/>
+
+<!-- ======================== ABOUT ======================== -->
+
+## `> whoami`
+
+```yaml
+name: Jaydeep Badal
+role: Software Developer
+
+currently_building:
+  - Spark.ai
+  - "A new project — name still loading..."
+  - "JustExam — optimization & refactoring"
+
+currently_learning:
+  - React
+  - Java
+  - Spring Boot
+  - System Design
+
+interested_in:
+  - Full Stack Development
+  - Backend Engineering
+  - DevOps
+  - Open Source
+  - Distributed Systems
+
+ask_me_about:
+  - Java
+  - MERN Stack
+  - Backend Development
+
+outside_code:
+  - Gaming 🎮
+  - Travelling 🌍
+  - Bikes 🏍️
+```
+
+> **I enjoy understanding how things work beneath the abstraction — then rebuilding them better.**
 
 ---
 
-## 🚀 About Me
+<!-- ======================== STATUS ======================== -->
 
-- 🔭 I'm currently working on **Spark.ai, p(Name still not decided) and JustExam(Optimizations and Refactorizations)**
-- 🌱 I'm currently learning **React, Java, SpringBoot **
-- 👯 I'm looking to collaborate on **Full stack applications, and DevOPS**
-- 💬 Ask me about **Java**
-- 📫 How to reach me: **jaydeep.badal.pro@gmail.com**
-- ⚡ Fun fact: **passionate gamer, and a Full TIme Traveler.**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Jaydeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=MaybeJaydeep&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-  
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
+## `> current_status`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<div align="center">
-<a href="https://github.com/MaybeJaydeep/SparkIn">
-<img src="https://via.placeholder.com/400x200/1a1b27/70a5fd?text=SparkIn" alt="SparkIn" width="100%"/>
-</a>
-</div>
+### ⚡ Building
 
-### ⚡ SparkIn - Modern Blogging Platform
-
-<p align="left">
-A feature-rich blogging platform inspired by Medium and Dev.to, built with the MERN stack. SparkIn offers a seamless content creation experience with a powerful rich text editor, user authentication, and an intuitive admin dashboard for content moderation.
-</p>
-
-**🎯 Key Features:**
-- ✅ TipTap-powered rich text editor with markdown support
-- ✅ JWT-based authentication with secure password hashing
-- ✅ Interactive commenting system and bookmarks
-- ✅ Admin dashboard for content moderation
-- ✅ Mobile-first responsive design
-
-**💻 Tech Stack:**
-
-![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express_5-404D59?style=flat&logo=express)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**📊 Project Stats:**  
-![Stars](https://img.shields.io/github/stars/MaybeJaydeep/SparkIn?style=social)
-![Forks](https://img.shields.io/github/forks/MaybeJaydeep/SparkIn?style=social)
-
-**🔗 Explore:**  
-<a href="https://github.com/MaybeJaydeep/SparkIn">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* **Spark.ai**
+* A new product currently taking shape
+* **JustExam** architecture improvements
+* Personal open-source experiments
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧠 Exploring
 
-<div align="center">
-<a href="https://github.com/MaybeJaydeep/JustExam">
-<img src="https://via.placeholder.com/400x200/1a1b27/ffa116?text=JustExam" alt="JustExam" width="100%"/>
-</a>
-</div>
-
-### 🎓 JustExam - Online Examination System
-
-<p align="left">
-A comprehensive online examination platform designed for educational institutions. JustExam streamlines the entire exam lifecycle with automated grading, real-time question navigation, and detailed performance analytics for both students and administrators.
-</p>
-
-**🎯 Key Features:**
-- ✅ Complete admin dashboard for exam & student management
-- ✅ Real-time exam interface with countdown timer
-- ✅ Instant result calculation and performance reports
-- ✅ Secure role-based access control
-- ✅ Fully responsive across all devices
-
-**💻 Tech Stack:**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**📊 Project Stats:**  
-![Stars](https://img.shields.io/github/stars/MaybeJaydeep/JustExam?style=social)
-![Forks](https://img.shields.io/github/forks/MaybeJaydeep/JustExam?style=social)
-
-**🔗 Explore:**  
-<a href="https://github.com/MaybeJaydeep/JustExam">
-<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* Spring Boot internals
+* Backend architecture
+* System Design
+* DevOps & containerization
+* Scalable application patterns
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ======================== TECH ======================== -->
+
+## `> tech --stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+
+### DevOps · Cloud · Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,linux,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📦 View detailed stack</b></summary>
+
+<br/>
+
+| Domain              | Technologies                                |
+| ------------------- | ------------------------------------------- |
+| **Languages**       | Java, JavaScript, TypeScript, Python, C++   |
+| **Frontend**        | React, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Backend**         | Node.js, Express.js, Spring Boot            |
+| **Databases**       | PostgreSQL, MongoDB, MySQL                  |
+| **DevOps**          | Docker, Kubernetes, GitHub Actions          |
+| **Cloud**           | AWS                                         |
+| **Developer Tools** | Git, GitHub, Linux, Postman                 |
+
+</details>
+
+---
+
+<!-- ======================== FEATURED ======================== -->
+
+## `> projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ SparkIn</h3>
+
+<div align="center">
+
+**Modern Blogging Platform**
+
+<a href="https://github.com/MaybeJaydeep/SparkIn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaybeJaydeep&repo=SparkIn&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" />
+</a>
+
+</div>
+
+A full-stack blogging platform inspired by modern publishing platforms, focused on smooth content creation, authentication and community interactions.
+
+**Highlights**
+
+* ✍️ TipTap rich-text editor
+* 🔐 JWT-based authentication
+* 💬 Commenting system
+* 🔖 Bookmark functionality
+* 🛡️ Admin moderation dashboard
+* 📱 Responsive user experience
+
+**Stack**
+
+`React 19` `Node.js` `Express 5` `MongoDB` `Tailwind CSS`
+
+<div align="center">
+
+<a href="https://github.com/MaybeJaydeep/SparkIn">
+<img src="https://img.shields.io/badge/Explore_SparkIn-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 JustExam</h3>
+
+<div align="center">
+
+**Online Examination System**
+
+<a href="https://github.com/MaybeJaydeep/JustExam">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaybeJaydeep&repo=JustExam&theme=github_dark&hide_border=true&bg_color=0D1117" width="100%" />
+</a>
+
+</div>
+
+An examination management platform designed to manage the complete assessment lifecycle for administrators and students.
+
+**Highlights**
+
+* 🧑‍💼 Admin management dashboard
+* ⏱️ Real-time examination interface
+* 📊 Automated result calculation
+* 🔐 Role-based access control
+* 📱 Responsive interface
+* 🛠️ Currently undergoing optimization & refactoring
+
+**Stack**
+
+`PHP` `MySQL` `JavaScript` `jQuery` `Bootstrap 5`
+
+<div align="center">
+
+<a href="https://github.com/MaybeJaydeep/JustExam">
+<img src="https://img.shields.io/badge/Explore_JustExam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================== EXPERIENCE ======================== -->
+
+## `> experience --timeline`
+
+### 🚀 Software Development Engineer · Bacancy
+
+`Jan — Present`
+
+* Working on full-stack web applications and Java-based systems.
+* Working with **Java, Spring Boot and MVC architectures**.
+* Improving existing codebases through refactoring and optimization.
+* Working on efficient database queries and application performance.
+* Exploring production-grade backend architecture and engineering practices.
+
+<br/>
+
+### 💻 MERN Developer Intern · IBM
+
+`Jun 2025 — Jul 2025`
+
+* Developed **SparkIn**, an end-to-end full-stack blogging platform.
+* Worked across frontend, backend, authentication and database layers.
+* Worked with containerization and DevOps-oriented project workflows.
+* Improved application structure and development practices.
+
+---
+
+<!-- ======================== GITHUB STATS ======================== -->
+
+## `> github --analytics`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaybeJaydeep&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaybeJaydeep&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeJaydeep&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
+<!-- ======================== TROPHIES ======================== -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will auto-update with your latest blog posts if you configure GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
+## `> github --trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MaybeJaydeep&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+<!-- ======================== ACTIVITY ======================== -->
+
+## `> contribution --graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaybeJaydeep&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ======================== CERTS ======================== -->
+
+## `> achievements --list`
+
+```text
+🏅 IBM — Frontend Development with React                         2025
+🏅 IBM — Node.js                                                2025
+🏅 IBM — Microservices & DevOps                                 2025
+```
+
+---
+
+<!-- ======================== CURRENT FOCUS ======================== -->
+
+## `> cat currentFocus.js`
 
 ```javascript
-const currentFocus = {
-  learning: ["SpringBoot", "Web3", "System Design"],
-  building: ["Open Source Projects", "Personal Portfolio"],
-  reading: ["Clean Code", "Designing Data-Intensive Applications"],
-  challenges: ["LeetCode Daily", "Advent of Code"]
+const jaydeep = {
+  learning: [
+    "Spring Boot",
+    "System Design",
+    "Backend Architecture",
+    "DevOps"
+  ],
+
+  building: [
+    "Spark.ai",
+    "JustExam vNext",
+    "Open Source Projects"
+  ],
+
+  improving: [
+    "Production-grade backend development",
+    "Database performance",
+    "Clean architecture",
+    "Distributed systems thinking"
+  ],
+
+  philosophy: "Build. Break. Understand. Rebuild better."
 };
 ```
 
 ---
 
-## 💼 Work Experience
+<!-- ======================== BLOG ======================== -->
 
-**🚀 [SDE] @ [Bacancy]** *(Jan - Present)*
-- Responsible for Full Stack Web application in Frameworks for Java legacy projects, SpringBoot and MVCs.
-- Code Optimizations and Effiencent Query Optimization.
+## `> latest --writing`
 
-**💻 [Intern MERN developer] @ [IBM]** *(June - July 2025)*
-- Developed Full stack end to end Markdown based bloggin system i.e. SparkIn
-- Worked and optimised Containers and DevOPS operations on project.
+<!-- BLOG-POST-LIST:START -->
 
----
-
-## 🎓 Certifications & Achievements
-
-- 🏅 **Frontend with React** - [IBM] (2025)
-- 🏅 **[Node.JS]** - [IBM] (2025)
-- 🏅 **[Microservies and DevOPS]** - [IBM] (2025)
-
----
-
-## 📫 Connect With Me
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydeep-badal)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://badaljaydeep.me)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydeep.badal.pro@gmail.com)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://app.daily.dev/NjkW4v7caZOSKGQvvutIs)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaydeep-badal)
-  
+
+<a href="https://medium.com/@jaydeep-badal">
+<img src="https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+<!-- ======================== CONNECT ======================== -->
+
+## `> ./connect-with-me.sh`
 
 <div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+
+<a href="https://linkedin.com/in/jaydeep-badal">
+<img src="https://img.shields.io/badge/LinkedIn-Jaydeep_Badal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://badaljaydeep.me">
+<img src="https://img.shields.io/badge/Portfolio-badaljaydeep.me-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:jaydeep.badal.pro@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="https://medium.com/@jaydeep-badal">
+<img src="https://img.shields.io/badge/Medium-@jaydeep--badal-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://app.daily.dev/NjkW4v7caZOSKGQvvutIs">
+<img src="https://img.shields.io/badge/daily.dev-Profile-0A0A0A?style=for-the-badge&logo=dailydotdev&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MaybeJaydeep">
+<img src="https://img.shields.io/badge/GitHub-MaybeJaydeep-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<div align="center">
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
-  
-</div>
-
----
+<!-- ======================== QUOTE ======================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### `while (alive) { learn(); build(); explore(); }`
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+
+<br/><br/>
+
+**Thanks for visiting my corner of GitHub.**
+
+<sub>Code is temporary. Curiosity scales.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/MaybeJaydeep?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
+
+<!-- ======================== FOOTER ======================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6E40C9,55:161B22,100:0D1117&section=footer" width="100%" />
