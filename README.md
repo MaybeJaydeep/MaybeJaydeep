@@ -18,12 +18,15 @@ Right now that shows up in two places: shipping full-stack systems from scratch,
 
 ```yaml
 currently:
-  building:   [VoltBill, SparkIn, JustExam v2]
+  building:   [VoltBill, SparkIn, JustExam v2, a unified AI-routing dashboard]
   studying:   [Spring Cloud microservices, distributed systems, system design]
   refining:   [production-grade backend architecture, database performance]
+  exploring:  [AI-assisted workflows, applied automation]
 
 principle: "Understand the system before you extend it. Document it so the next person doesn't have to."
 ```
+
+Alongside the core stack, I've been building toward AI and automation as a practical layer on top of existing systems — not as a novelty, but as infrastructure: a unified dashboard that routes Claude and Gemini through one app with shared context and full audit logging, and automation pipelines (n8n, scripted document generation) that remove manual steps from otherwise repetitive work.
 
 ---
 
@@ -68,7 +71,10 @@ const approach = {
 
 ## Experience
 
-**Software Development Engineer · Bacancy** — *Jan 2026 – Present*
+** Technical Product Consultant · Motadata** — *May 2026 – Present*
+Working on ServiceOps — production troubleshooting, root-cause diagnostics, and turning operational knowledge into structured documentation and SOPs.
+
+**Software Development Engineer · Bacancy** — *Jan 2026 - Apr 2026*
 Full-stack systems and Java/Spring Boot services; codebase refactoring, query optimization, and production-facing backend work.
 
 **MERN Developer Intern · IBM** — *Jun 2025 – Jul 2025*
